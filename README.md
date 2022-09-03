@@ -1,16 +1,26 @@
-### Hi there 👋
+# Hi there! This is iruru1111's profile.
+👇 Checking my profiles & projects!! 👇
 
-<!--
-**iruru1111/iruru1111** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <a href="https://github.com/iruru1111/iruru1111/">
+    <img height="20" src="https://komarev.com/ghpvc/?username=iruru1111" alt="iruru1111" />
+  </a>
+  <a href="https://twitter.com/iruru1111">
+    <img height="20" src="https://img.shields.io/twitter/follow/iruru1111?label=Twitter&logo=twitter&style=flat" />
+  </a>
+  <a href="https://www.youtube.com/c/iruru1111">
+    <img src="https://img.shields.io/youtube/channel/subscribers/UCiOlL2-ShI4mhDDbY3gx8Dg?label=YouTube%20Channel%20Subscribers&logo=Youtube&logoColor=%23FF0000&style=flat" alt="YouTube Channel Subscribers" />
+  </a>
+  <a href="https://github.com/iruru1111">
+    <img height="20" src="https://img.shields.io/github/followers/iruru1111?label=follow&logo=github&style=flat" />
+  </a>
+</p>
 
-Here are some ideas to get you started:
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=iruru1111&show_icons=true&theme=tokyonight)](https://github.com/iruru1111/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iruru1111&theme=tokyonight)](https://github.com/iruru1111/github-readme-stats)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=iruru1111&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=iruru1111&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=iruru1111&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=iruru1111&theme=tokyonight)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=iruru1111&theme=tokyonight&utcOffset=8)
